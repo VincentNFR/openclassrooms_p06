@@ -4,5 +4,5 @@ scikit-image
 ipython
 matplotlib
 keras
-tensorflow
+tensorflow-gpu
 tensorflow-datasets

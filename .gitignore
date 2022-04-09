@@ -130,3 +130,8 @@ dmypy.json
 
 # VSCode
 .vscode
+
+# Processing
+models/
+results/
+test_folder/

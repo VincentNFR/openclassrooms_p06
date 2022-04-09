@@ -1,8 +1,0 @@
-numpy
-pandas
-scikit-image
-ipython
-matplotlib
-keras
-tensorflow-gpu
-tensorflow-datasets
